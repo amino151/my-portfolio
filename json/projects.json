@@ -1,0 +1,20 @@
+{
+    "projects": [
+      {
+        "name": "Project 1",
+        "description": "Description of Project 1",
+        "link": "#"
+      },
+      {
+        "name": "Project 2",
+        "description": "Description of Project 2",
+        "link": "#"
+      },
+      {
+        "name": "Project 3",
+        "description": "Description of Project 3",
+        "link": "#"
+      }
+    ]
+  }
+  
